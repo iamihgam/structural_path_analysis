@@ -5,4 +5,4 @@ It is a traslation of the scripts given in Prof. Scott Matthews at al. book:
                 - _Life Cycle Assessment: Quantitative Approaches for Decisions that Matter_, available at lcatextbook.com
 
 ## TO DO
- - new algorithms for  building could be explored , for e.g. bfs or dfs in graphblas
+ - new algorithms for building the trees could be explored , for e.g. bfs or dfs in graphblas
